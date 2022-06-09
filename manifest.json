@@ -1,0 +1,27 @@
+---
+---
+
+{
+  "lang": "en",
+  "name": "Ning",
+  "short_name": "ning",
+  "icons": [
+    {
+      "src": "{{ assets['avatar-180.jpg'].digest_path }}",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "{{ assets['avatar-196.jpg'].digest_path }}",
+      "sizes": "196x196",
+      "type": "image/png"
+    },
+    {
+      "src": "{{ assets['avatar-300.jpg'].digest_path }}",
+      "sizes": "300x300",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "browser"
+}

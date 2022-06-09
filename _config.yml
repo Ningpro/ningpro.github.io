@@ -1,0 +1,37 @@
+assets:
+  digest: true
+  compression: true
+  source_maps: false
+  precompile: [
+    avatar-180.jpg,
+    avatar-196.jpg,
+    avatar-300.jpg,
+    moon.svg,
+    moon-dark.svg
+  ]
+author: Ning
+domain: https://ningpro.github.io
+url: https://ningpro.github.io
+exclude:
+  - config.rb
+  - node_modules
+  - script
+  - Gemfile
+  - Gemfile.lock
+  - package-lock.json
+  - package.json
+  - travis.yml
+  - vendor
+feed:
+  path: /feed/index.xml
+highlighter: rouge
+markdown: kramdown
+paginate: 10
+paginate_path: 'archive/:num/'
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-assets
+  - jekyll-feed
+  - jekyll-paginate
+rdiscount extensions: [smart]
+title: Ning, Front End Developer
