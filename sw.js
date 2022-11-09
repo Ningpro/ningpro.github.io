@@ -1,4 +1,4 @@
-const version = '20221109035929';
+const version = '20221109040102';
 const cacheName = `static::${version}`;
 
 
