@@ -2,6 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ningpro.github.io/2022/11/09/Android-x86/</loc>
+    
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
     <loc>https://ningpro.github.io/2022/06/09/Begin/</loc>
     
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
@@ -16,7 +25,7 @@
   
   <url>
     <loc>https://ningpro.github.io/about/</loc>
-    <lastmod>2022-09-07T23:52:43+00:00</lastmod>
+    <lastmod>2022-11-09T03:21:09+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -27,7 +36,7 @@
   
   <url>
     <loc>https://ningpro.github.io/contact/</loc>
-    <lastmod>2022-09-07T23:52:43+00:00</lastmod>
+    <lastmod>2022-11-09T03:21:09+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -36,7 +45,7 @@
   
   <url>
     <loc>https://ningpro.github.io/</loc>
-    <lastmod>2022-09-07T23:52:43+00:00</lastmod>
+    <lastmod>2022-11-09T03:21:09+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
